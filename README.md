@@ -1,4 +1,8 @@
 # hello-world
 Getting started with GitHub
 
-I am making changes to my readme file! Yeey! :) 
+Testing equation display:
+
+$$ f(x) = ax^2 + bx + c $$
+
+seems alright.
