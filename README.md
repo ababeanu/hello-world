@@ -5,4 +5,4 @@ Testing equation display:
 
 $$ f(x) = ax^2 + bx + c $$
 
-seems alright.
+and hyperlink to [auxiliary](https://github.com/ababeanu/hello-world/blob/master/auxiliary.md) file.
